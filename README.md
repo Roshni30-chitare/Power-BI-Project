@@ -1,6 +1,7 @@
 MOBILE SALES DASHBOARD
 
 📊 Interactive Dashboard of Mobile Sales
+
 🔍 Project Description
 This project presents an interactive Power BI dashboard that visualizes mobile sales data to provide actionable insights into product performance, revenue trends, and customer preferences. It helps stakeholders make informed business decisions with a clean and user-friendly interface.
 
