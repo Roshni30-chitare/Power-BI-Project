@@ -30,4 +30,4 @@ Includes fields like: Product Name, Brand, Category, Sales, Revenue, Region, Cus
 🔍 Fully interactive slicers for dynamic filtering
 
  Screenshots
- dashboard preview: (https://github.com/Roshni30-chitare/Power-BI-Project/blob/main/Dashboard%20screenshot.png)
+ dashboard preview: (Dashboard screenshot.png)
