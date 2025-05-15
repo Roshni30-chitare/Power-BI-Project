@@ -29,3 +29,4 @@ Includes fields like: Product Name, Brand, Category, Sales, Revenue, Region, Cus
 
 🔍 Fully interactive slicers for dynamic filtering
 
+ Screenshots:https://github.com/Roshni30-chitare/Power-BI-Project/blob/main/Dashboard%20screenshot.png
